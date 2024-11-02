@@ -21,6 +21,4 @@
 </ul>
 </div>
 
-<div align="center">
-<h6>Note: I don't publish my statistics of the most used languages because I have almost all private repositories. </h4>
-</div>
+
